@@ -3,7 +3,7 @@
 ### Education
 Masters in Business Analyst, Bachelors in Engineering
 
-## Work Experience
+### Work Experience
 Data Analyst @ Debug Tech
 - great work
 - amazing work
